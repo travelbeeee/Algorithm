@@ -58,7 +58,7 @@ void SelectionSort(int arr[], int N) {
 
 아무것도 정렬되지 않았으므로 정렬되지 않은 전체 데이터에서 가장 작은 값인 1을 뽑아서 가장 앞의 데이터와 교환한다.
 
-<img src="https://user-images.githubusercontent.com/59816811/104181580-6a282780-5452-11eb-973f-ef76d57d6402.png" alt="1" style="zoom: 50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181580-6a282780-5452-11eb-973f-ef76d57d6402.png" alt="1" style="zoom: 33%;" />
 
 <br>
 
@@ -66,31 +66,31 @@ void SelectionSort(int arr[], int N) {
 
 정렬되지 않은 부분에서 가장 작은 값인 2를 뽑아 가장 앞의 데이터와 교환한다.
 
-<img src="https://user-images.githubusercontent.com/59816811/104181583-6bf1eb00-5452-11eb-8800-3fe792ace6e0.png" alt="2" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181583-6bf1eb00-5452-11eb-8800-3fe792ace6e0.png" alt="2" style="zoom: 33%;" />
 
 ##### 3)
 
 같은 과정을 반복한다.
 
-<img src="https://user-images.githubusercontent.com/59816811/104181585-6d231800-5452-11eb-9aba-e004b1d8502b.png" alt="3" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181585-6d231800-5452-11eb-9aba-e004b1d8502b.png" alt="3" style="zoom: 33%;" />
 
 ##### 4)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181587-6e544500-5452-11eb-8639-b4153f50db97.png" alt="4" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181587-6e544500-5452-11eb-8639-b4153f50db97.png" alt="4" style="zoom: 33%;" />
 
 ##### 5)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181596-6f857200-5452-11eb-86df-7873333cdaaa.png" alt="5" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181596-6f857200-5452-11eb-86df-7873333cdaaa.png" alt="5" style="zoom: 33%;" />
 
 ##### 6)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181603-71e7cc00-5452-11eb-87ed-70583c0c2bfe.png" alt="6" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181603-71e7cc00-5452-11eb-87ed-70583c0c2bfe.png" alt="6" style="zoom: 33%;" />
 
 ##### 7)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181609-72806280-5452-11eb-80b8-79191d925f94.png" alt="7" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181609-72806280-5452-11eb-80b8-79191d925f94.png" alt="7" style="zoom: 33%;" />
 
 ##### 8)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181612-73b18f80-5452-11eb-89f0-4bd77b70747a.png" alt="8" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181612-73b18f80-5452-11eb-89f0-4bd77b70747a.png" alt="8" style="zoom: 33%;" />
 
