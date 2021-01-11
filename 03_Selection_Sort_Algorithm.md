@@ -72,25 +72,25 @@ void SelectionSort(int arr[], int N) {
 
 같은 과정을 반복한다.
 
-<img src="https://user-images.githubusercontent.com/59816811/104181585-6d231800-5452-11eb-9aba-e004b1d8502b.png" alt="3" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181585-6d231800-5452-11eb-9aba-e004b1d8502b.png" alt="3" width="500" />
 
 ##### 4)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181587-6e544500-5452-11eb-8639-b4153f50db97.png" alt="4" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181587-6e544500-5452-11eb-8639-b4153f50db97.png" alt="4" width="500" />
 
 ##### 5)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181596-6f857200-5452-11eb-86df-7873333cdaaa.png" alt="5" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181596-6f857200-5452-11eb-86df-7873333cdaaa.png" alt="5" width="500" />
 
 ##### 6)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181603-71e7cc00-5452-11eb-87ed-70583c0c2bfe.png" alt="6" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181603-71e7cc00-5452-11eb-87ed-70583c0c2bfe.png" alt="6" width="500" />
 
 ##### 7)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181609-72806280-5452-11eb-80b8-79191d925f94.png" alt="7" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181609-72806280-5452-11eb-80b8-79191d925f94.png" alt="7" width="500" />
 
 ##### 8)
 
-<img src="https://user-images.githubusercontent.com/59816811/104181612-73b18f80-5452-11eb-89f0-4bd77b70747a.png" alt="8" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181612-73b18f80-5452-11eb-89f0-4bd77b70747a.png" alt="8" width="500" />
 
