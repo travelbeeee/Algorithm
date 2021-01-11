@@ -58,7 +58,7 @@ void SelectionSort(int arr[], int N) {
 
 아무것도 정렬되지 않았으므로 정렬되지 않은 전체 데이터에서 가장 작은 값인 1을 뽑아서 가장 앞의 데이터와 교환한다.
 
-<img src="https://user-images.githubusercontent.com/59816811/104181580-6a282780-5452-11eb-973f-ef76d57d6402.png" alt="1" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/59816811/104181580-6a282780-5452-11eb-973f-ef76d57d6402.png" alt="1" style="zoom: 10%;" />
 
 <br>
 
