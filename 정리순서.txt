@@ -1,0 +1,18 @@
+1) BruteForce
+2) Backtracking
+3) Selection_Sort
+4) Bubble_Sort
+5) Insertion_Sort
+6) Quick_Sort
+7) Merge_Sort
+8) Union_Find
+9) Divide_Conquer
+10) DP
+11) Greedy
+12) Stack
+13) Queue
+14) Deque
+15) Bitmask
+16) KMP
+17) Trie
+--> 이 뒤로는 트리랑 그래프를 해보자...!
