@@ -1,4 +1,4 @@
-## Merge Sort
+# Merge Sort
 
 Merge Sort 는 존 폰 노이만이 개발한 정렬 알고리즘이다.
 

@@ -1,4 +1,4 @@
-## Backtracking
+# Backtracking
 
 백트레킹은 한국어로 번역하면 퇴각검색 이라고 한다. 영어 정의를 보는게 더 쉬울 것 같다... 
 
@@ -23,8 +23,6 @@ notably constraint satisfaction problems 라는 구문만 없으면 백트레킹
 이때, 보통 재귀적으로 DFS탐색처럼 알고리즘을 구현하고 Brute-Force 와 달리 중간에 조건에 부합하지 않는 경우의 수라고 판단이 되면 다시 Back 해서 다른 경우의 수 탐색으로 넘어가게 된다. 그래서 Backtracking 이라고 이름이 붙여진 것 같다.
 
 <br>
-
-
 
 가장 대표적인 N-Queen 예시를 통해서 조금 더 차이를 알아보자.
 

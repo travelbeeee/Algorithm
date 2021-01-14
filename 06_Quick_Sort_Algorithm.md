@@ -1,4 +1,4 @@
-## Quick Sort
+# Quick Sort
 
 퀵 정렬은 리처드 호어가 개발한 정렬 알고리즘으로 **평균적으로** 앞에서 다룬 Selection, Bubble, Insertion Sort 알고리즘보다 **빠른 수행 속도**를 자랑한다.
 
