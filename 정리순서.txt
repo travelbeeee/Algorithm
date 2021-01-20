@@ -1,15 +1,15 @@
-1) BruteForce
-2) Backtracking
-3) Selection_Sort
-4) Bubble_Sort
-5) Insertion_Sort
-6) Quick_Sort
-7) Merge_Sort
-8) Union_Find
+1) BruteForce O
+2) Backtracking O
+3) Selection_Sort O
+4) Bubble_Sort O
+5) Insertion_Sort O
+6) Quick_Sort O
+7) Merge_Sort O
+8) Union_Find O
 9) Divide_Conquer -->
 10) DP -->
 11) Greedy  -->
-12) Stack
+12) Stack O
 13) Queue
 14) Deque
 15) Bitmask
@@ -25,4 +25,5 @@ MST
 CCW 도 해야된다!
 2개의 직사각형이 만나는지 안만나는지도!
 
+priority_queue
 Map / HashMap
