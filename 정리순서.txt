@@ -10,8 +10,8 @@
 10) DP -->
 11) Greedy  -->
 12) Stack O
-13) Queue
-14) Deque
+13) Queue O
+14) Deque O
 15) Bitmask
 16) KMP
 17) Trie
